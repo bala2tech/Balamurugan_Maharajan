@@ -1,32 +1,61 @@
-# Hi there 👋, I'm Balamurugan!
+👋 Hi, I’m Balamurugan (Bala)
+Data Scientist | AI Engineer | Manufacturing Analytics Specialist
 
-## 💻 About Me
-- Passionate **Data Scientist** with a background in Mechanical/Quality Engineering.
-- Experienced in **Python, SQL, Power BI, and Predictive Analytics**.
-- Currently working on **stock market analytics, predictive quality monitoring, and data-driven dashboards**.
+Welcome to my GitHub!
+I combine 15+ years of mechanical & quality engineering experience with modern Data Science, Machine Learning, and AI technologies to build real-world, impactful solutions for Industry 4.0.
 
-## 🚀 Skills
-- **Programming & Data Science:** Python, Pandas, NumPy, Scikit-learn
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Streamlit
-- **Database & Cloud:** SQL, MySQL, Cloud-based data platforms
-- **Analytics & ML:** Predictive modeling, Quality monitoring, Data cleaning, EDA
+🚀 What I Do
 
-## 📊 Projects
-- **Predictive Quality Monitoring System:** Predict machine/product quality issues using Python & SQL.
-- **Nifty50 Stock Analysis Dashboard:** Streamlit & Power BI dashboards for stock performance visualization.
-- **Data Science Portfolio:** Real-world datasets, EDA, visualization, and ML models.
+🏭 Industrial AI & Predictive Quality
 
-## 🌟 GitHub Stats
-https://github.com/bala2tech/Balamurugan_Maharajan/edit/main/README.md
+🤖 Machine Learning & Deep Learning
 
-## 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/bala2tech/
-- Email: kannan2lucky@gmail.com
+🎥 Computer Vision (CNN, YOLO, image-based QC)
 
----
+🧠 NLP (sentiment analysis, text classification)
 
-### Optional: Add Fun Section
-```markdown
-### ⚡ Fun Facts
-- Coffee lover ☕ & music enthusiast 🎵
-- Always exploring new **data science techniques and AI trends**
+📈 Time-Series Forecasting & Predictive Maintenance
+
+🧪 Statistical Analysis (SPC, MSA, DOE)
+
+☁️ Cloud & Deployment (Gradio, Streamlit, AWS)
+
+🔥 Featured Projects
+1️⃣ Digital Twin + Predictive Quality Monitoring System
+
+AI-powered digital twin to simulate machine behaviour, predict quality issues, and trigger email alerts.
+Tech: Python, Scikit-learn, Gradio, SPC, Sensor Simulation
+
+2️⃣ Manufacturing Defect Detection (Computer Vision)
+
+CNN-based defect classifier for visual QC automation.
+Tech: TensorFlow, OpenCV, CNN, Grad-CAM
+
+3️⃣ Predictive Maintenance Model
+
+Predicts machine failures using vibration, temperature & RPM signals.
+Tech: Python, ML, AWS SageMaker
+
+4️⃣ Deepfake Image Detection (CNN + RNN)
+
+Patch-based image analysis using EfficientNet + LSTM.
+Tech: TensorFlow, CV, Sequence Models
+
+5️⃣ Google Reviews Sentiment & Recommendation Engine
+
+NLP pipeline for sentiment analysis + automated recommendations.
+Tech: Transformers, LangChain, TextBlob
+
+🛠️ Tech Skills
+
+Languages: Python, SQL
+Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV
+Cloud: AWS (EC2, S3, RDS, SageMaker)
+Tools: Power BI, Tableau, GitHub, Excel
+Quality Tools: Six Sigma, MSA, SPC, FMEA, PPAP, APQP, DOE
+
+📫 Connect with Me
+
+📧 Email: kannan2lucky@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/bala2tech
